@@ -1,5 +1,5 @@
 # RSA HASKELL
-# functional programming classes in AGH UST
+# functional programming classes at AGH UST
 
 
 ### Quick start
